@@ -1,0 +1,8 @@
+c:\users\madhuka dilshan\documents\visual studio 2012\Projects\WSubmit for company\WSubmit for company\bin\Debug\WSubmit for company.exe.config
+c:\users\madhuka dilshan\documents\visual studio 2012\Projects\WSubmit for company\WSubmit for company\bin\Debug\WSubmit for company.exe
+c:\users\madhuka dilshan\documents\visual studio 2012\Projects\WSubmit for company\WSubmit for company\bin\Debug\WSubmit for company.pdb
+c:\users\madhuka dilshan\documents\visual studio 2012\Projects\WSubmit for company\WSubmit for company\obj\Debug\WSubmit_for_company.Form1.resources
+c:\users\madhuka dilshan\documents\visual studio 2012\Projects\WSubmit for company\WSubmit for company\obj\Debug\WSubmit_for_company.Properties.Resources.resources
+c:\users\madhuka dilshan\documents\visual studio 2012\Projects\WSubmit for company\WSubmit for company\obj\Debug\WSubmit for company.csproj.GenerateResource.Cache
+c:\users\madhuka dilshan\documents\visual studio 2012\Projects\WSubmit for company\WSubmit for company\obj\Debug\WSubmit for company.exe
+c:\users\madhuka dilshan\documents\visual studio 2012\Projects\WSubmit for company\WSubmit for company\obj\Debug\WSubmit for company.pdb
